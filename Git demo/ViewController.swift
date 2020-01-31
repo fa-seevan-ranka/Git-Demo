@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Demo of branch hopping in git")
+        print("Demoing cherry-pick with my own changes")
         // Do any additional setup after loading the view.
     }
 
